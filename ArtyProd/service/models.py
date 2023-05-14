@@ -7,7 +7,6 @@ from django.contrib.auth.models import AbstractUser, Group, Permission
 #to migrate migration files
 #python manage.py migrate
 
-
 from django.contrib.auth.models import AbstractUser
 from django.db import models
 from django.utils.translation import gettext_lazy as _
